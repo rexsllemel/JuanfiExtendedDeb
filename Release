@@ -1,6 +1,8 @@
-Origin: JuanfiExtendedDeb
-Label: JuanfiExtendedDeb
+Origin: juanfiextended
+Label: juanfiextended
 Codename: stable
 Architectures: amd64
 Components: main
-Description: JuanFi Extended Debian Repository
+Description: JuanFi Extended Server
+ JuanFi Extended Server is a server manager for Juanfi hotspot
+ management system for Linux.
