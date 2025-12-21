@@ -1,0 +1,10 @@
+Package: juanfiextended
+Version: 2.5.3
+Architecture: amd64
+Maintainer: rexsllemel
+Filename: ./JuanfiExtended_v2.5.3_amd64.deb
+Size: 79781308
+MD5sum: 99A214B836F669BC9F2A33F845FB6852
+SHA256: CB621BEC40E2C986F60C26C5478D6AC9FE10F307F4096318C018E51053B784FF
+Description: JuanFi Extended - WiFi Portal System
+ Extended version of JuanFi WiFi portal system for Debian-based systems.
