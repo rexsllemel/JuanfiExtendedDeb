@@ -1,4 +1,4 @@
-# JuanfiExtendedDeb
+# JuanfiExtended Debian Package
 
 ## Installation
 
