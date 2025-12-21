@@ -1,8 +1,13 @@
 Origin: juanfiextended
 Label: juanfiextended
 Codename: stable
+Date: Sat, 21 Dec 2025 00:00:00 UTC
 Architectures: amd64
 Components: main
 Description: JuanFi Extended Server
  JuanFi Extended Server is a server manager for Juanfi hotspot
  management system for Linux.
+MD5Sum:
+ 57b63260fa280c751bba951427769025 384 Packages
+SHA256:
+ 400b5b424e1d87b6d430d42afe631d821590ce4518b01b2c0a246836e629fa81 384 Packages
