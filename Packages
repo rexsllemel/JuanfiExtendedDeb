@@ -4,8 +4,8 @@ Architecture: amd64
 Maintainer: rexsllemel
 Filename: ./JuanfiExtended_v2.6.2_amd64.deb
 Size: 79781308
-MD5sum: 99a214b836f669bc9f2a33f845fb6852
-SHA256: cb621bec40e2c986f60c26c5478d6ac9fe10f307f4096318c018e51053b784ff
+MD5sum: 73a18a8ccbab30a3901a5226333adf2c
+SHA256: 1691618af680a9033157303347a2a2368809d764c8ffecacd5c50207d5016606
 Description: JuanFi Extended Server
  JuanFi Extended Server is a server manager for Juanfi hotspot
  management system for Linux.
